@@ -14,7 +14,7 @@ This project is a official getting started from NextJS. NextJS offers Pre-Render
 - Typescript with NextJS
 
 ## Project URL
-<a href="https://next-js-gs.now.sh/" target="_blank">Visualizar site</a>
+<a href="https://next-js-gs.now.sh/" target="_blanc">Visualizar site</a>
 
 ## Project Images
 <img src="https://i.imgur.com/lTho7Zh.png" width="800">
