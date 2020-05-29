@@ -14,7 +14,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>The actress that make me feel things in 2019</p>
+        <p>The person who makes me feel harry pottah bro</p>
         <h1 className={utilStyles.headingMd}>Blog</h1>
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title }) => (
